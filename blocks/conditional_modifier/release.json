@@ -1,0 +1,7 @@
+{
+  "nio/ConditionalModifier": {
+    "language": "Python",
+    "url": "git://github.com/nio-blocks/conditional_modifier.git",
+    "version": "1.0.0"
+  }
+}

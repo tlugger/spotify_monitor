@@ -1,0 +1,426 @@
+[2017-12-20 21:06:28.859] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-20 21:06:28.870] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-20 21:06:28.875] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-20 21:06:29.718] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-20 21:06:29.726] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-20 21:06:29.749] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-20 21:06:29.754] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-20 21:06:29.791] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-20 21:06:29.901] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-20 21:06:29.911] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-20 21:06:29.918] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-20 21:06:29.923] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-20 21:06:30.402] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-20 21:06:30.410] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-20 21:06:34.898] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 30846 has started
+[2017-12-20 21:06:35.509] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 30823 has started
+[2017-12-20 21:06:35.541] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 30839 has started
+[2017-12-20 21:06:35.545] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 30830 has started
+[2017-12-20 21:08:06.361] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2017-12-20 21:08:49.056] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 31228 has started
+[2017-12-20 21:21:31.903] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-20 21:21:31.909] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-20 21:21:31.912] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-20 21:21:32.379] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-20 21:21:32.382] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-20 21:21:32.400] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-20 21:21:32.403] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-20 21:21:32.421] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-20 21:21:32.528] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-20 21:21:32.535] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-20 21:21:32.539] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-20 21:21:32.543] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-20 21:21:32.941] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-20 21:21:32.948] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-20 21:21:37.348] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 589 has started
+[2017-12-20 21:21:37.758] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 577 has started
+[2017-12-20 21:21:37.777] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 575 has started
+[2017-12-20 21:21:38.328] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 600 has started
+[2017-12-21 15:44:46.818] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2017-12-21 15:44:51.334] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2017-12-21 15:44:52.720] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 32134 has started
+[2017-12-21 15:45:00.972] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2017-12-21 15:45:02.958] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 32211 has started
+[2017-12-21 15:45:07.404] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2017-12-21 15:45:08.534] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 32282 has started
+[2017-12-21 15:45:13.096] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 32355 has started
+[2017-12-22 15:17:18.697] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-22 15:17:18.703] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-22 15:17:18.707] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-22 15:17:19.185] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-22 15:17:19.188] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-22 15:17:19.207] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-22 15:17:19.210] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-22 15:17:19.228] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-22 15:17:19.335] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-22 15:17:19.341] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-22 15:17:19.345] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-22 15:17:19.348] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-22 15:17:19.594] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-22 15:17:19.609] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-22 15:17:24.177] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 645 has started
+[2017-12-22 15:17:24.653] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 633 has started
+[2017-12-22 15:17:24.789] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 620 has started
+[2017-12-22 15:17:24.972] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 621 has started
+[2017-12-22 19:31:48.246] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-22 19:31:48.256] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-22 19:31:48.262] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-22 19:31:49.069] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-22 19:31:49.075] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-22 19:31:49.106] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-22 19:31:49.111] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-22 19:31:49.147] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-22 19:31:49.260] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-22 19:31:49.271] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-22 19:31:49.282] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-22 19:31:49.290] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-22 19:31:49.762] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-22 19:31:49.772] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-22 19:31:55.088] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 567 has started
+[2017-12-22 19:31:55.888] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 566 has started
+[2017-12-22 19:31:56.363] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 579 has started
+[2017-12-22 19:31:56.849] NIO [ERROR] [main.ServiceManager] Service Authorizer failed to configure
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 176, in start
+    ServiceProcess.CONFIGURE_TIMEOUT)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 210, in _wait_for_status_notification
+    raise ServiceProcess.ServiceStatusError()
+niocore.core.service.process.ServiceProcess.ServiceStatusError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 402, in _start_process
+    process.start()
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 178, in start
+    raise ConfigureFailure()
+niocore.core.service.process.ConfigureFailure
+[2017-12-22 19:31:56.866] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2017-12-22 19:31:56.876] NIO [ERROR] [main.ServiceProcess.Authorizer] Communication with Service: Authorizer is broken
+[2017-12-22 19:31:56.885] NIO [ERROR] [main.ServiceProcess.Authorizer] Error while stopping service
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 176, in start
+    ServiceProcess.CONFIGURE_TIMEOUT)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 210, in _wait_for_status_notification
+    raise ServiceProcess.ServiceStatusError()
+niocore.core.service.process.ServiceProcess.ServiceStatusError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 402, in _start_process
+    process.start()
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 178, in start
+    raise ConfigureFailure()
+niocore.core.service.process.ConfigureFailure
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 250, in stop
+    self._stop_service()
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 229, in _stop_service
+    self.send_async(IPCMessage(IPCRequestCommand("stop", None)))
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 319, in send_async
+    self._ipc_core.send_async(message)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/ipc/native/base.py", line 79, in send_async
+    self._pipe.send(message)
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 206, in send
+    self._send_bytes(ForkingPickler.dumps(obj))
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header + buf)
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+[2017-12-22 19:31:56.906] NIO [ERROR] [main.NIOThread] Executing: _start_process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 176, in start
+    ServiceProcess.CONFIGURE_TIMEOUT)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 210, in _wait_for_status_notification
+    raise ServiceProcess.ServiceStatusError()
+niocore.core.service.process.ServiceProcess.ServiceStatusError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/nio/util/threading/thread.py", line 33, in run
+    self.nio_result = self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 407, in _start_process
+    raise e
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 402, in _start_process
+    process.start()
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 178, in start
+    raise ConfigureFailure()
+niocore.core.service.process.ConfigureFailure
+[2017-12-22 19:47:11.375] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-22 19:47:11.380] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-22 19:47:11.383] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-22 19:47:11.902] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-22 19:47:11.905] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-22 19:47:11.924] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-22 19:47:11.927] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-22 19:47:11.946] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-22 19:47:12.052] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-22 19:47:12.059] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-22 19:47:12.063] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-22 19:47:12.066] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-22 19:47:12.393] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-22 19:47:12.399] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-22 19:47:16.810] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 583 has started
+[2017-12-22 19:47:17.150] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 582 has started
+[2017-12-22 19:47:17.622] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 607 has started
+[2017-12-22 19:47:17.717] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 596 has started
+[2017-12-22 21:31:40.324] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2017-12-22 21:31:40.330] NIO [INFO] [main.ServiceManager] Setting status to created
+[2017-12-22 21:31:40.334] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2017-12-22 21:31:41.682] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2017-12-22 21:31:41.689] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2017-12-22 21:31:41.718] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2017-12-22 21:31:41.724] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2017-12-22 21:31:41.745] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2017-12-22 21:31:41.851] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2017-12-22 21:31:41.857] NIO [INFO] [main.WebServer] Web engine started
+[2017-12-22 21:31:41.861] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2017-12-22 21:31:41.864] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2017-12-22 21:31:42.215] NIO [INFO] [main.ServiceManager] Setting status to started
+[2017-12-22 21:31:42.247] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2017-12-22 21:31:46.820] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 754 has started
+[2017-12-22 21:31:47.004] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 731 has started
+[2017-12-22 21:31:47.301] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 729 has started
+[2017-12-22 21:31:47.526] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 746 has started
+[2017-12-30 16:21:36.937] NIO [INFO] [pubkeeper.client] Connected To Pubkeeper (1.0)
+[2017-12-30 16:21:37.069] NIO [INFO] [pubkeeper.protocol.v1] Authenticated to Pubkeeper
+[2018-01-02 18:42:27.147] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-02 18:42:27.178] NIO [INFO] [main.ServiceManager] Setting status to stopping
+[2018-01-02 18:42:27.184] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: started to: stopping
+[2018-01-02 18:42:27.192] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-02 18:42:31.222] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2018-01-02 18:42:33.245] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-02 18:42:33.255] NIO [ERROR] [main.ServiceProcess.DeviceIndicator] Communication with Service: DeviceIndicator is broken
+[2018-01-02 18:42:33.266] NIO [ERROR] [main.ServiceProcess.DeviceIndicator] Error while stopping service
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 250, in stop
+    self._stop_service()
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 229, in _stop_service
+    self.send_async(IPCMessage(IPCRequestCommand("stop", None)))
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 319, in send_async
+    self._ipc_core.send_async(message)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/ipc/native/base.py", line 79, in send_async
+    self._pipe.send(message)
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 206, in send
+    self._send_bytes(ForkingPickler.dumps(obj))
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header + buf)
+  File "/usr/lib/python3.5/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+[2018-01-02 18:42:33.331] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2018-01-02 18:42:35.349] NIO [INFO] [main.ServiceManager] Setting status to stopped
+[2018-01-02 18:42:35.352] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: stopping to: stopped
+[2018-01-02 18:42:35.361] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-02 18:42:35.365] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-02 18:42:35.380] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutting Down
+[2018-01-02 18:42:35.390] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutdown
+[2018-01-02 18:42:41.788] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-02 18:42:41.793] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-02 18:42:41.799] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-02 18:42:43.004] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-02 18:42:43.010] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-02 18:42:43.040] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-02 18:42:43.044] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-02 18:42:43.062] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-02 18:42:43.169] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-02 18:42:43.174] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-02 18:42:43.178] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-02 18:42:43.181] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-02 18:42:43.562] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-02 18:42:43.569] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-02 18:42:47.849] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 8685 has started
+[2018-01-02 18:42:48.659] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 8713 has started
+[2018-01-02 18:42:48.674] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 8705 has started
+[2018-01-02 18:42:48.715] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 8691 has started
+[2018-01-02 20:59:49.168] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-02 20:59:49.176] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-02 20:59:49.179] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-02 20:59:49.654] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-02 20:59:49.657] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-02 20:59:49.676] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-02 20:59:49.679] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-02 20:59:49.715] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-02 20:59:49.827] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-02 20:59:49.838] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-02 20:59:49.845] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-02 20:59:49.851] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-02 20:59:50.378] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-02 20:59:50.386] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-02 20:59:54.967] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 586 has started
+[2018-01-02 20:59:55.360] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 566 has started
+[2018-01-02 20:59:55.374] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 565 has started
+[2018-01-02 20:59:55.633] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 578 has started
+[2018-01-03 21:58:00.096] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-03 21:58:00.103] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-03 21:58:00.106] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-03 21:58:00.868] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-03 21:58:00.874] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-03 21:58:00.905] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-03 21:58:00.910] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-03 21:58:00.947] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-03 21:58:01.058] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-03 21:58:01.069] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-03 21:58:01.079] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-03 21:58:01.086] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-03 21:58:01.660] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-03 21:58:01.667] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-03 21:58:05.939] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 566 has started
+[2018-01-03 21:58:06.502] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 565 has started
+[2018-01-03 21:58:06.720] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 578 has started
+[2018-01-03 21:58:07.242] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 586 has started
+[2018-01-09 20:20:20.493] NIO [INFO] [pubkeeper.client] Connected To Pubkeeper (1.0)
+[2018-01-09 20:20:20.500] NIO [INFO] [pubkeeper.protocol.v1] Authenticated to Pubkeeper
+[2018-01-09 20:21:32.385] NIO [INFO] [pubkeeper.client] Connected To Pubkeeper (1.0)
+[2018-01-09 20:21:32.391] NIO [INFO] [pubkeeper.protocol.v1] Authenticated to Pubkeeper
+[2018-01-11 00:59:29.511] NIO [INFO] [pubkeeper.client] Connected To Pubkeeper (1.0)
+[2018-01-11 00:59:29.521] NIO [INFO] [pubkeeper.protocol.v1] Authenticated to Pubkeeper
+[2018-01-15 17:02:16.644] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-15 17:02:26.665] NIO [WARNING] [main.ServiceProcess.DeviceIndicator] Service: 'DeviceIndicator' failed to terminate on time
+[2018-01-15 17:02:35.362] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 27650 has started
+[2018-01-15 17:03:01.589] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-15 17:03:09.491] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 27791 has started
+[2018-01-15 17:03:34.829] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-15 17:03:51.004] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 27946 has started
+[2018-01-15 17:03:58.429] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-15 17:04:11.876] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 28040 has started
+[2018-01-15 17:06:21.874] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2018-01-15 17:06:31.135] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 28287 has started
+[2018-01-15 17:07:14.040] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-15 17:07:20.401] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 28382 has started
+[2018-01-15 17:07:32.019] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2018-01-15 17:07:38.135] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 28485 has started
+[2018-01-16 22:50:49.308] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-16 22:50:49.319] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-16 22:50:49.324] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-16 22:50:50.119] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-16 22:50:50.124] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-16 22:50:50.155] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-16 22:50:50.160] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-16 22:50:50.195] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-16 22:50:50.307] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-16 22:50:50.318] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-16 22:50:50.326] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-16 22:50:50.332] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-16 22:50:50.758] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-16 22:50:50.765] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-16 22:50:55.036] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 576 has started
+[2018-01-16 22:50:55.431] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 577 has started
+[2018-01-16 22:50:56.026] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 601 has started
+[2018-01-16 22:50:56.045] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 593 has started
+[2018-01-17 15:48:45.563] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:48:51.743] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 2226 has started
+[2018-01-17 15:51:01.173] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:51:09.211] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 2411 has started
+[2018-01-17 15:51:16.159] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:51:58.695] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 2506 has started
+[2018-01-17 15:52:07.833] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:52:48.590] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 2617 has started
+[2018-01-17 15:52:53.173] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:57:39.384] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 2933 has started
+[2018-01-17 15:58:26.190] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:58:32.316] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 3074 has started
+[2018-01-17 15:58:38.536] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 15:58:54.598] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 3148 has started
+[2018-01-17 15:58:59.914] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 16:00:13.920] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 3259 has started
+[2018-01-17 16:01:50.202] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 16:01:56.436] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 3443 has started
+[2018-01-17 16:05:00.337] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:05:07.460] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 3624 has started
+[2018-01-17 16:05:12.628] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:05:26.245] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 3713 has started
+[2018-01-17 16:05:30.955] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:07:47.299] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 3817 has started
+[2018-01-17 16:09:26.582] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:09:26.623] NIO [INFO] [main.ServiceManager] Setting status to stopping
+[2018-01-17 16:09:26.628] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: started to: stopping
+[2018-01-17 16:09:26.633] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2018-01-17 16:09:27.645] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2018-01-17 16:09:28.660] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:09:29.673] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 16:09:30.683] NIO [INFO] [main.ServiceManager] Setting status to stopped
+[2018-01-17 16:09:30.688] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: stopping to: stopped
+[2018-01-17 16:09:30.697] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:09:30.706] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:09:30.718] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutting Down
+[2018-01-17 16:09:30.731] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutdown
+[2018-01-17 16:09:35.630] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-17 16:09:35.638] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-17 16:09:35.644] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-17 16:09:36.137] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-17 16:09:36.142] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-17 16:09:36.165] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-17 16:09:36.170] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-17 16:09:36.206] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-17 16:09:36.317] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-17 16:09:36.328] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-17 16:09:36.335] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-17 16:09:36.341] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-17 16:09:36.731] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-17 16:09:36.738] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-17 16:09:40.778] NIO [WARNING] [main.ServiceProcess.DeviceIndicator] In Service: 'DeviceIndicator', no response received for request: command path: status, parameters: {}
+[2018-01-17 16:09:40.784] NIO [ERROR] [main.WebHandler] Exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/niocore/modules/web/cherrypy/handler.py", line 83, in _do_callback
+    handler_callback(request, response, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/components/rest/handlers/collection.py", line 42, in on_get
+    items = self._filter(collection, req.get_params())
+  File "/usr/local/lib/python3.5/dist-packages/niocore/components/rest/handlers/collection.py", line 163, in _filter
+    return {item.name: item.properties for item in collection}
+  File "/usr/local/lib/python3.5/dist-packages/niocore/components/rest/handlers/collection.py", line 163, in <dictcomp>
+    return {item.name: item.properties for item in collection}
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/api/resource.py", line 82, in properties
+    status = command.execute({}) if command else {}
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/api/command.py", line 50, in execute
+    args)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 181, in on_service_command
+    request)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/manager.py", line 548, in execute_request
+    return process.execute_request(request)
+  File "/usr/local/lib/python3.5/dist-packages/niocore/core/service/process.py", line 377, in execute_request
+    raise RequestTimeout(timeout_msg)
+niocore.core.service.process.RequestTimeout: In Service: 'DeviceIndicator', no response received for request: command path: status, parameters: {}
+[2018-01-17 16:09:41.441] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 4097 has started
+[2018-01-17 16:09:41.987] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 4105 has started
+[2018-01-17 16:09:42.172] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 4113 has started
+[2018-01-17 16:09:42.343] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 4089 has started
+[2018-01-17 16:14:21.415] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:14:27.813] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 4608 has started
+[2018-01-17 16:36:33.883] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:36:33.892] NIO [INFO] [main.ServiceManager] Setting status to stopping
+[2018-01-17 16:36:33.898] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: started to: stopping
+[2018-01-17 16:36:33.902] NIO [INFO] [main.ServiceManager] Stopping service: DeviceIndicator
+[2018-01-17 16:36:34.917] NIO [INFO] [main.ServiceManager] Stopping service: ShowDevice
+[2018-01-17 16:36:35.931] NIO [INFO] [main.ServiceManager] Stopping service: Authorizer
+[2018-01-17 16:36:36.946] NIO [INFO] [main.ServiceManager] Stopping service: UseWarning
+[2018-01-17 16:36:37.960] NIO [INFO] [main.ServiceManager] Setting status to stopped
+[2018-01-17 16:36:37.965] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: stopping to: stopped
+[2018-01-17 16:36:37.973] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:36:37.980] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 stopped
+[2018-01-17 16:36:37.991] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutting Down
+[2018-01-17 16:36:38.001] NIO [INFO] [pubkeeper.client] Pubkeeper Client Shutdown
+[2018-01-17 16:36:42.012] NIO [INFO] [main.WebServer] Server configured on 0.0.0.0:8181
+[2018-01-17 16:36:42.021] NIO [INFO] [main.ServiceManager] Setting status to created
+[2018-01-17 16:36:42.028] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from:  to: created
+[2018-01-17 16:36:42.522] NIO [INFO] [main.ServiceManager] Setting status to configuring
+[2018-01-17 16:36:42.530] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: created to: configuring
+[2018-01-17 16:36:42.556] NIO [INFO] [main.ServiceManager] Setting status to configured
+[2018-01-17 16:36:42.562] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configuring to: configured
+[2018-01-17 16:36:42.599] NIO [INFO] [main.WebServer] Starting server on 0.0.0.0:8181
+[2018-01-17 16:36:42.711] NIO [INFO] [main.WebServer] Server 0.0.0.0:8181 started on 0.0.0.0:8181
+[2018-01-17 16:36:42.723] NIO [INFO] [main.WebServer] Web engine started
+[2018-01-17 16:36:42.730] NIO [INFO] [main.ServiceManager] Setting status to starting
+[2018-01-17 16:36:42.738] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: configured to: starting
+[2018-01-17 16:36:43.164] NIO [INFO] [main.ServiceManager] Setting status to started
+[2018-01-17 16:36:43.170] NIO [INFO] [main.ServiceManager] Component: ServiceManager status changed from: starting to: started
+[2018-01-17 16:36:47.803] NIO [INFO] [main.ServiceManager] Service: ShowDevice with process identifier(pid): 5584 has started
+[2018-01-17 16:36:48.044] NIO [INFO] [main.ServiceManager] Service: UseWarning with process identifier(pid): 5558 has started
+[2018-01-17 16:36:48.081] NIO [INFO] [main.ServiceManager] Service: Authorizer with process identifier(pid): 5575 has started
+[2018-01-17 16:36:48.315] NIO [INFO] [main.ServiceManager] Service: DeviceIndicator with process identifier(pid): 5567 has started

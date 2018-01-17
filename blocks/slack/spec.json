@@ -1,0 +1,58 @@
+{
+  "nio/Slack": {
+    "version": "0.1.0",
+    "description": "Send messages to a Slack channel as a bot.",
+    "categories": [
+      "Notifications"
+    ],
+    "properties": {
+      "api_token": {
+        "title": "Slack API Token",
+        "type": "StringType",
+        "description": "The API Token for your bot. Get a test token at the Slack Web API page.",
+        "default": "[[SLACK_API_TOKEN]]"
+      },
+      "bot_info": {
+        "title": "Bot Details",
+        "type": "ObjectType",
+        "description": "Information about the bot that will be sending the message.",
+        "default": {
+          "name": "",
+          "icon": ":smiley_cat:"
+        }
+      },
+      "channel": {
+        "title": "Slack Channel",
+        "type": "StringType",
+        "description": "The channel to send your message to. You can use the channel name (prefixed with a hashtag) or you can use the channel ID returned from the API. Direct messages are supported as well (prefixed with @).",
+        "default": "{{ $channel }}"
+      },
+      "enrich": {
+        "title": "Signal Enrichment",
+        "type": "ObjectType",
+        "description": "If true, the original incoming signal will be included in the output signal.",
+        "default": {
+          "exclude_existing": true,
+          "enrich_field": ""
+        }
+      },
+      "message": {
+        "title": "Message",
+        "type": "StringType",
+        "description": "The message to send to the channel.",
+        "default": "{{ $message }}"
+      }
+    },
+    "inputs": {
+      "default": {
+        "description": "Any list of signals."
+      }
+    },
+    "outputs": {
+      "default": {
+        "description": "The response of the slack request."
+      }
+    },
+    "commands": {}
+  }
+}
