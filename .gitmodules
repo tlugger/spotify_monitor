@@ -1,3 +1,51 @@
 [submodule "blocks/spotify"]
 	path = blocks/spotify
 	url = https://github.com/tlugger/spotify.git
+[submodule "blocks/attribute_selector"]
+	path = blocks/attribute_selector
+	url = git://github.com/nio-blocks/attribute_selector.git
+[submodule "blocks/blink1"]
+	path = blocks/blink1
+	url = git://github.com/nio-blocks/blink1.git
+[submodule "blocks/communication"]
+	path = blocks/communication
+	url = git://github.com/nio-blocks/communication.git
+[submodule "blocks/conditional_modifier"]
+	path = blocks/conditional_modifier
+	url = git://github.com/nio-blocks/conditional_modifier.git
+[submodule "blocks/debounce"]
+	path = blocks/debounce
+	url = git://github.com/nio-blocks/debounce.git
+[submodule "blocks/filter"]
+	path = blocks/filter
+	url = git://github.com/nio-blocks/filter.git
+[submodule "blocks/http_requests"]
+	path = blocks/http_requests
+	url = git://github.com/nio-blocks/http_requests.git
+[submodule "blocks/join"]
+	path = blocks/join
+	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/logger"]
+	path = blocks/logger
+	url = git://github.com/nio-blocks/logger.git
+[submodule "blocks/merge_streams"]
+	path = blocks/merge_streams
+	url = git://github.com/nio-blocks/merge_streams.git
+[submodule "blocks/modifier"]
+	path = blocks/modifier
+	url = git://github.com/nio-blocks/modifier.git
+[submodule "blocks/replicator"]
+	path = blocks/replicator
+	url = git://github.com/nio-blocks/replicator.git
+[submodule "blocks/signal_timeout"]
+	path = blocks/signal_timeout
+	url = git://github.com/nio-blocks/signal_timeout.git
+[submodule "blocks/simulator"]
+	path = blocks/simulator
+	url = git://github.com/nio-blocks/simulator.git
+[submodule "blocks/slack"]
+	path = blocks/slack
+	url = git://github.com/nio-blocks/slack.git
+[submodule "blocks/state"]
+	path = blocks/state
+	url = git://github.com/nio-blocks/state.git

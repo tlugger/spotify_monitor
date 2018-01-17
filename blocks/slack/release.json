@@ -1,7 +1,0 @@
-{
-  "nio/Slack": {
-    "language": "Python",
-    "version": "0.1.0",
-    "url": "git://github.com/nio-blocks/slack.git"
-  }
-}
