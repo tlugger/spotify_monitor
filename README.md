@@ -36,12 +36,20 @@ You can create a new project directory with the nio-cli
 
 An additional step requred for the Spotify block is to set up 'blocks/spotify/spotify.py' with your Spotify credentials. This script is automatically run once by nio with instructions to vistit a redirect url in your browser to authorize your app and cache your initial auth token. See Spotipy description for authentication below:
 ```
-	    User authentication requires interaction with your
+	User authentication requires interaction with your
         web browser. Once you enter your credentials and
         give authorization, you will be redirected to
         a url.  Paste that url you were directed to to
         complete the authorization.
 ``` 
+
+### Configure the `SetColor` Block
+
+This block is what sets the RGB color code for the blink(1) dongle. To add colors for you device. Open this block within the _DeviceIndicator_ service of your instance in the [System Designer](http://designer.n.io). 
+
+Currently each RGB (red, green, blue) field has two lookups. One for a device name equal to `<Device Name>` setting that color to a maximum level and one default that does not set a color. The default should be hit for any device assigned to the name "nothing" but all of your other devices should have a custom lookup for their device name and a unique RGB code assigned to them. 
+
+Note: Be sure to keep the defaut (`{{True}}`) formula at the bottom of the look ups so it is only hit if no other device names match your custom lookups. 
 
 ## File Reference
 
