@@ -1,6 +1,5 @@
 # Spotify Monitor
 
-The Project Template is a base template used to create a new nio project with the recommended files and file structu
 This nio project can be run from a Raspberry Pi to monitor the playback status of a users Spotify account. The color of a blink(1) dongle can be canged depending on which device is currently streaming music. "Unauthorized" devices will have their playback stopeed every 10 seconds, change the dongle red, and send a slack message to the account holder about the unauthorized device
 
 ## How to Use
