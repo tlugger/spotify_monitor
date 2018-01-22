@@ -21,15 +21,15 @@ You can create a new project directory with the nio-cli
 
 ### Configure User Variables
 
-* Modify nio.env and replace all '<>' placeholders with your credentials obtained above for 'CLIENT_ID', 'CLIENT_SECRET', and 'SLACK_API_TOKEN'. 
+* Modify nio.env and replace all '<>' placeholders with your credentials obtained above for `CLIENT_ID` and `CLIENT_SECRET` obtained from Spotify and `SLACK_API_TOKEN` from Slack. 
 
-* Replace '<YOUR LIST OF AUTHOREZED DEVICE NAME STRINGS>' with a list of device names (as Spotify knows them) that you want to be "Authorized"
+* Replace `<YOUR LIST OF AUTHOREZED DEVICE NAME STRINGS>` with a list of device names (as Spotify knows them) that you want to be "Authorized"
 
-  * Note: The Spotify API returns some odd unicode for apostrophes. Something like 'Tyler's MacBook Pro' would become 'Tyler\u2019s MacBook Pro'.
+  * Note: The Spotify API returns some odd unicode for apostrophes. Something like `Tyler's MacBook Pro` would become `Tyler\u2019s MacBook Pro`.
 
-* Replace '<YOUR SPOTIFY USERNAME>' with the username assigned to your profile at Spotifys [Account overview](https://www.spotify.com/us/account/overview/) page.
+* Replace `<YOUR SPOTIFY USERNAME>` with the username assigned to your profile at Spotifys [Account overview](https://www.spotify.com/us/account/overview/) page.
 
-* Repalce '<SLACK_USERNAME>' with your slack username for direct messages. 
+* Repalce `<SLACK_USERNAME>` with your slack username for direct messages. 
 
 ### Setup Spotify Authorization Script
 
