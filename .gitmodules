@@ -37,9 +37,6 @@
 [submodule "blocks/replicator"]
 	path = blocks/replicator
 	url = git://github.com/nio-blocks/replicator.git
-[submodule "blocks/signal_timeout"]
-	path = blocks/signal_timeout
-	url = git://github.com/nio-blocks/signal_timeout.git
 [submodule "blocks/simulator"]
 	path = blocks/simulator
 	url = git://github.com/nio-blocks/simulator.git
