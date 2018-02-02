@@ -21,7 +21,7 @@ You can create a new project directory with the nio-cli
 
 ### Configure User Variables
 
-* Modify nio.env and replace all '<>' placeholders with your credentials obtained above for `CLIENT_ID` and `CLIENT_SECRET` obtained from Spotify and `SLACK_API_TOKEN` from Slack. 
+* Modify nio.conf and replace all '<>' placeholders in the `[user_defined]` section with your credentials obtained above for `CLIENT_ID` and `CLIENT_SECRET` obtained from Spotify and `SLACK_API_TOKEN` from Slack. 
 
 * Replace `<YOUR LIST OF AUTHOREZED DEVICE NAME STRINGS>` with a list of device names (as Spotify knows them) that you want to be "Authorized"
 
@@ -33,7 +33,7 @@ You can create a new project directory with the nio-cli
 
 ### Setup Spotify Authorization Script
 
-An additional step requred for the Spotify block is to set up 'blocks/spotify/spotify.py' with your Spotify credentials. This script is automatically run once by nio with instructions to vistit a redirect url in your browser to authorize your app and cache your initial auth token. See Spotipy description for authentication below:
+An additional step requred for the Spotify block is to set up 'blocks/spotify/spotify.py' with your Spotify credentials. This script is automatically run once by nio with instructions to visit a redirect url in your browser to authorize your app and cache your initial auth token. See Spotipy description for authentication below:
 ```
 	User authentication requires interaction with your
         web browser. Once you enter your credentials and
@@ -65,7 +65,4 @@ Note: Be sure to keep the defaut (`{{True}}`) formula at the bottom of the look 
 
 **docker-compose.yml**<br>A file optionally used in conjunction with Docker to configure your application so that all its dependencies can be started with a single command.
 
-**nio.conf**<br>A file that contains the nio project configuration. Default values are shown.
-
-**nio.env**<br>A file containing environment variables for the project. If this file contains secrets, you will want to add it to the `.gitignore` file.
-
+**nio.conf**<br>A file that contains the nio project configuration. Default values are shown. If this file contains secrets, you will want to add it to the `.gitignore` file.
