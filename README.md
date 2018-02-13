@@ -50,6 +50,16 @@ Currently each RGB (red, green, blue) field has two lookups. One for a device na
 
 Note: Be sure to keep the defaut (`{{True}}`) formula at the bottom of the look ups so it is only hit if no other device names match your custom lookups. 
 
+
+## Spotify Authorization Troubleshooting
+
+The Spotify block will occasionally stop sending valid authorization tokens when requested. This can cause the system to be stuck in a request loop with no data being retrieved. One _current_ solution is to set up a cron job on the Raspberry Pi to restart your nio instance every night. This will allow the Spotify blocks to grab a fresh auth token once per day and avoid request loops.
+
+Append the following to the bottom of your cron jobs list (found using `crontab -e`).
+```
+0 7 * * * sudo service spotify restart
+```
+
 ## File Reference
 
 **blocks**<br>A directory that contains block types, as submodules. The project template comes with a few of the most commonly used block types. Block types can be added and removed. Additional block types can be found in the block library and added through the System Designer, or, you can add your own custom block types here.
