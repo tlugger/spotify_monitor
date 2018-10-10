@@ -1,5 +1,5 @@
 {
-    "Admin": {"password": "QWRtaW4="},
-    "User": {"password": "VXNlcg=="},
-    "Guest": {"password": "R3Vlc3Q="}
+    "tlugger": {
+        "password": "$2b$12$BfwTrjWXyoekYhobGQN2q.28ZkA7yVy7TTHfQkXDIHMI5FopEcqli"
+    }
 }

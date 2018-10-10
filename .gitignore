@@ -74,3 +74,8 @@ logs/
 etc/persist/
 nio.err
 etc/api_key.cfg
+etc/instance_id.cfg
+etc/user_defined.cfg
+
+# spotify stuff
+.cache*

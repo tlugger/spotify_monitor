@@ -31,3 +31,27 @@
 [submodule "blocks/logger"]
 	path = blocks/logger
 	url = https://github.com/nio-blocks/logger
+[submodule "blocks/blink1"]
+	path = blocks/blink1
+	url = git://github.com/nio-blocks/blink1.git
+[submodule "blocks/conditional_modifier"]
+	path = blocks/conditional_modifier
+	url = git://github.com/nio-blocks/conditional_modifier.git
+[submodule "blocks/debounce"]
+	path = blocks/debounce
+	url = git://github.com/nio-blocks/debounce.git
+[submodule "blocks/http_requests"]
+	path = blocks/http_requests
+	url = git://github.com/nio-blocks/http_requests.git
+[submodule "blocks/slack"]
+	path = blocks/slack
+	url = git://github.com/nio-blocks/slack.git
+[submodule "blocks/spotify"]
+	path = blocks/spotify
+	url = https://github.com/tlugger/spotify.git
+[submodule "blocks/counter"]
+	path = blocks/counter
+	url = git://github.com/nio-blocks/counter.git
+[submodule "blocks/sleep"]
+	path = blocks/sleep
+	url = git://github.com/nio-blocks/sleep.git
